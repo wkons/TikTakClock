@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.985,=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.08.09 09:33:16.019,=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.08.09 09:33:16.115,=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.08.09 09:33:43.323,C:\Users\z\OneDrive\Документы\GitHub\TikTakClock\Unit1.h=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022.08.09 09:33:43.323,C:\Users\z\OneDrive\Документы\GitHub\TikTakClock\Unit1.cpp=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.08.09 09:33:43.323,C:\Users\z\OneDrive\Документы\GitHub\TikTakClock\Unit1.dfm=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.08.09 09:33:52.247,C:\Users\z\OneDrive\Документы\GitHub\TikTakClock\TikTakClockPCH1.h=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.08.09 09:34:00.259,C:\Users\z\OneDrive\Документы\GitHub\TikTakClock\TikTakClock.cbproj=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

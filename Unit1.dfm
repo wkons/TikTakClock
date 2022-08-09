@@ -15,4 +15,36 @@ object Form1: TForm1
   Position = poScreenCenter
   PixelsPerInch = 96
   TextHeight = 13
+  object Label1: TLabel
+    Left = 193
+    Top = 111
+    Width = 156
+    Height = 116
+    Caption = '000'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -96
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 359
+    Top = 159
+    Width = 78
+    Height = 58
+    Caption = '000'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -48
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Timer1: TTimer
+    Interval = 1
+    OnTimer = Timer1Timer
+    Left = 18
+    Top = 18
+  end
 end
